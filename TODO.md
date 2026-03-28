@@ -1,0 +1,1 @@
+# TODO: Resize Hero Photo in Hero.jsx\n\n- [ ] Step 1: Create TODO.md (current)\n- [ ] Step 2: Edit Hero.jsx to reduce hero.png size to responsive h-24 w-40 (md:h-28 md:w-48)\n- [ ] Step 3: Verify changes and preview with dev server\n- [ ] Step 4: Complete task
